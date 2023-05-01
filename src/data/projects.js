@@ -12,14 +12,14 @@ export const projects = [
   },
   {
     img: summit,
-    title: "css projects",
+    title: "She Code Africa Summit 2022",
     desc: "She Code Africa Summit 2022. Worked on only Frontend with React.js",
     live: "summit.shecodeafrica.org",
     code: "https://github.com/she-code-africa/SCA-Summit",
   },
   {
     img: todo,
-    title: "get Inspirred",
+    title: "Simple ToDo App",
     desc: "Simple ToDo App. Built using MERN Stack",
     live: "https://dazzling-biscuit-24a626.netlify.app/#!",
     code: "https://github.com/Fhave/todo_server",
