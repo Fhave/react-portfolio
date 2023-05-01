@@ -1,6 +1,6 @@
-
 import React, { useState } from "react";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
+import cv from "../assets/CV.pdf"
 
 const Header = () => {
   const [toggle, setToggle] = useState(false);
@@ -57,7 +57,7 @@ const Header = () => {
             <a href="/#contact" onClick={handleToggle}>Contact</a>
           </li>
           <li>
-            <a href="/#resume" onClick={handleToggle}>Resume</a>
+            <a href={cv} target="_blank" rel="noreferrer"onClick={handleToggle}>Resume</a>
           </li>
         </ul>
       </nav>
