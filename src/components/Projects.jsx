@@ -12,7 +12,7 @@ return (
       </h2>
 
       <p className="pb-5">
-        These are some of my best projects. I have built these with React,
+        These are some of my projects. I have built these with React,
         MERN and vanilla CSS. Check them out.
       </p>
     </div>
@@ -33,13 +33,13 @@ return (
             <div className="mx-auto">
               <a
                 href={project.live}
-                className="px-5 py-2 bg-blue-500 hover:bg-blue-600 mr-5 font-bold"
+                className="px-5 py-2 bg-blue-500 hover:bg-blue-600 mr-5 font-bold" target="_blank" rel="noreferrer"
               >
                 Live
               </a>
               <a
                 href={project.code}
-                className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold"
+                className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold" target="_blank" rel="noreferrer"
               >
                 Code
               </a>
