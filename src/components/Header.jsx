@@ -25,16 +25,17 @@ const Header = () => {
           <li>
             <a href="/#projects">Projects</a>
           </li>
-          <li>
+{/*           <li>
             <a href="/#blog">Blog</a>
-          </li>
+          </li> */}
           <li>
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="#resume -link" target="_blank" without rel="noreferrer">
+{/*             <a href="#resume -link" target="_blank" without rel="noreferrer">
               Resume
-            </a>
+            </a> */}
+            <a href="../assets/CV.pdf" download="Resume">Resume</a>
           </li>
         </ul>
       </nav>
