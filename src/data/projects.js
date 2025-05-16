@@ -1,6 +1,7 @@
 import todo from "../assets/simple-mern-todo.png";
 import responsive from "../assets/responsive-social-media-dashboard.png";
 import summit from "../assets/sca-summit-2022.png";
+import weventa from "../assets/weventa.png";
 
 export const projects = [
   {
@@ -11,11 +12,11 @@ export const projects = [
     code: "https://github.com/Fhave/Social-Media-Dashboard",
   },
   {
-    img: summit,
-    title: "She Code Africa Summit 2022",
-    desc: "She Code Africa Summit 2022. Worked on only Frontend with React.js",
-    live: "summit.shecodeafrica.org",
-    code: "https://github.com/she-code-africa/SCA-Summit",
+    img: weventa,
+    title: "Weventa Website",
+    desc: "Weventa Ecommerce Website. Worked on only Frontend with React.js.",
+    live: "https://weventa.vercel.app/",
+    code: "https://github.com/Fhave/weventa",
   },
   {
     img: todo,
