@@ -12,7 +12,7 @@ const Contact = () => {
           <span className="font-bold">Email:</span> omosiyobo@gmail.com
         </p>
         <p className="py-2">
-          <span className="font-bold">Phone:</span> +23408030657191
+          <span className="font-bold">Phone:</span> +2348030657191
         </p>
       </div>
     </section>
