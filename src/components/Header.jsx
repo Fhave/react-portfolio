@@ -31,12 +31,12 @@ const Header = () => {
           <li>
             <a href="/#contact">Contact</a>
           </li>
-          <li>
+{/*           <li>
 {/*             <a href="#resume -link" target="_blank" without rel="noreferrer">
               Resume
             </a> */}
-            <a href="../assets/CV.pdf" download="Resume">Resume</a>
-          </li>
+            <a href=cv download="Resume">Resume</a>
+          </li> */}
         </ul>
       </nav>
 
