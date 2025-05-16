@@ -32,9 +32,9 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
 {/*           <li>
-{/*             <a href="#resume -link" target="_blank" without rel="noreferrer">
+             <a href="#resume -link" target="_blank" without rel="noreferrer">
               Resume
-            </a> */}
+            </a> 
             <a href=cv download="Resume">Resume</a>
           </li> */}
         </ul>
@@ -57,9 +57,9 @@ const Header = () => {
           <li>
             <a href="/#contact" onClick={handleToggle}>Contact</a>
           </li>
-          <li>
+{/*           <li>
             <a href={cv} target="_blank" rel="noreferrer"onClick={handleToggle}>Resume</a>
-          </li>
+          </li> */}
         </ul>
       </nav>
 
